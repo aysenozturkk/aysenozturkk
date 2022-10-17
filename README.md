@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **nuxtJS**
 
-- 💬 Ask me about **Vue, AngularJS, .NET Core**
+- 💬 Ask me about **Vue, AngularJS, .NET Core, Javascript**
 
 - 📫 How to reach me **aysenozturk54@outlook.com**
 
