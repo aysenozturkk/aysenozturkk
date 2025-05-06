@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysen</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/aysenztrkk" target="blank"><img
