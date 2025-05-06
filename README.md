@@ -82,5 +82,9 @@
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flutter/flutter-original.svg"
             alt="vuejs" width="40" height="40" />
+    </a>            
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dart/dart-original-wordmark.svg"
+            alt="vuejs" width="40" height="40" />
     </a>
 </p>
